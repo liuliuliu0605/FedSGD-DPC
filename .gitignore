@@ -1,0 +1,18 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Projects
+.idea/
+__pycache__/
+temp_model/
+result/
+log/
+lab/
+figure/
+tmp/
